@@ -1,10 +1,5 @@
 # Swagger UI Demo
 
-This repository for swagger demo and present in sharing knowledge about Swagger
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
-
 ## Installation
 
 After checkout repository, please run:
